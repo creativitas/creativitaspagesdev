@@ -27,7 +27,7 @@ export class Head extends LitElement {
     (this.title = 'Creativitas'),
       (this.description =
         'Jekyll, Eleventy, Astro Js,React Js, Gatsby Js,Next Js, Angular,Svelte , Blazor WASM, Headless and Flatfile CMS Website developer'),
-      (this.url = '/welcome/');
+      (this.url = '/welcome');
   }
 
   render() {

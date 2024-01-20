@@ -25,7 +25,7 @@ export class IntroHome extends LitElement {
 
   constructor() {
     super();
-    (this.title = 'Modern Website Developer'), (this.link = '/welcome/');
+    (this.title = 'Modern Website Developer'), (this.link = '/welcome');
   }
 
   render() {

@@ -46,7 +46,7 @@ export class Call extends LitElement {
       (this.was = 'https://wa.me/62895339403223'),
       (this.call = '📧 Email'),
       (this.tel = 'mailto:axcora@gmail.com'),
-      (this.url = '/contact/');
+      (this.url = '/contact');
   }
 
   render() {

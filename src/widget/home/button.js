@@ -30,7 +30,7 @@ export class homeBtn extends LitElement {
 
   constructor() {
     super();
-    (this.start = 'Get Start Now'), (this.link = '/welcome/');
+    (this.start = 'Get Start Now'), (this.link = '/welcome');
   }
 
   render() {

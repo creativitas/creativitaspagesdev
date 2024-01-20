@@ -40,9 +40,9 @@ export class Thanks extends LitElement {
       (this.btnlink = 'https://fiverr.com/creativitas'),
       (this.text = 'Choose products according to your needs.'),
       (this.btn1 = 'Services 🚀'),
-      (this.btn1link = '/websitedeveloper/'),
+      (this.btn1link = '/websitedeveloper'),
       (this.btn2 = 'Themes 🎭'),
-      (this.btn2link = '/themes/');
+      (this.btn2link = '/themes');
     this.pilih = 'Creativitas Website development and theme service solutions.';
   }
 

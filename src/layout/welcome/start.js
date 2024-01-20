@@ -39,7 +39,7 @@ export class Start extends LitElement {
 
   constructor() {
     super();
-    (this.url = '/welcome.html'),
+    (this.url = '/welcome'),
       (this.title = 'Website Developer Services 👩‍🚀'),
       (this.description =
         '👋 Welcome to the creativitas page, We are website developers who are experienced in developing and building modern website projects, such as Company Profiles, Podcasts, Gallery Images, Documentation, Blogs, Spa Salons, Restaurants, Barbershops, Schools and Custom Websites with SEO and a touch excellent performance in Google Lighthouse.'),
@@ -51,7 +51,7 @@ export class Start extends LitElement {
         'And we provide services, 🛸 creating and developing website projects, cloud point of sale applications, modern blogs, documentation website, optimizing website for improve performance and speed, and providing website themes with various technologies to help your project 👍 . All our services is inlcude with ⚙️ help and support from starting hosting setup, push source code into your github repo, and deploying on your hosting, until your website is live 🚀 '),
       (this.cover =
         'https://res.cloudinary.com/dp1ndwq6a/image/upload/c_thumb,w_auto/q_auto/f_avif/v1705673842/creativitas-netlify/services/photographer_gallery_website_image_ywexgk.webp'),
-      (this.url = '/welcome/');
+      (this.url = '/welcome');
   }
 
   render() {
