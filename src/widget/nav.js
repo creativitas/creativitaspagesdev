@@ -43,7 +43,7 @@ nav {
     this.data = data;
     (this.description =
       'Creativitas a modern website developer and website themes template'),
-      (this.url = '/start.html');
+      (this.url = '/welcome/');
   }
 
   render() {

@@ -22,7 +22,7 @@ export class WelcomeHome extends LitElement {
   });
   constructor() {
     super();
-    (this.title = 'Modern Website Developer'), (this.link = '/start.html');
+    (this.title = 'Modern Website Developer'), (this.link = '/welcome/');
     this.addEventListener('click', () => this.clickHandler());
     this.letters = this.lit;
   }

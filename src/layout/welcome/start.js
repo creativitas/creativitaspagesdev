@@ -51,7 +51,7 @@ export class Start extends LitElement {
         'And we provide services, 🛸 creating and developing website projects, cloud point of sale applications, modern blogs, documentation website, optimizing website for improve performance and speed, and providing website themes with various technologies to help your project 👍 . All our services is inlcude with ⚙️ help and support from starting hosting setup, push source code into your github repo, and deploying on your hosting, until your website is live 🚀 '),
       (this.cover =
         'https://res.cloudinary.com/dp1ndwq6a/image/upload/c_thumb,w_auto/q_auto/f_avif/v1705673842/creativitas-netlify/services/photographer_gallery_website_image_ywexgk.webp'),
-      (this.url = '/welcome.html');
+      (this.url = '/welcome/');
   }
 
   render() {

@@ -45,7 +45,7 @@ export class Cloud extends LitElement {
     (this.title = 'MESIN KASIR RESTORAN ONLINE 🚀'),
       (this.description =
         'Aplikasi restoran online terintergasi dengan mesin kasir resto cafe rumah makan untuk bekerja.'),
-      (this.url = '/themes.html');
+      (this.url = '/themes/');
   }
 
   render() {

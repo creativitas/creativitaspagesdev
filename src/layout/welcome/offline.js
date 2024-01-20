@@ -46,7 +46,7 @@ export class Desktop extends LitElement {
     super();
     this.data = data;
     (this.title = 'WEBSITE DEVELOPER SERVICES 💫'),
-      (this.url = '/offline.html');
+      (this.url = '/websitedevloper/');
   }
   render() {
     return html`
