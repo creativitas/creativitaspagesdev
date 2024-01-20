@@ -14,6 +14,7 @@ nav a:link,
   color: whitesmoke;
   font-weight: bold;
 }
+.small {font-size:12px;}
 nav a:hover,nav a:visited{
   background: linear-gradient(
     0deg,
@@ -51,7 +52,7 @@ nav {
     <nav>
     ${this.data.map(
       (item) => html`
-    <a href="${item.link}" title="${item.title}" class="nav-link">${item.nav}</a>
+    <a href="${item.link}" title="${item.title}" class="nav-link small">${item.nav}</a>
     </nav>
     `
     )} `;
