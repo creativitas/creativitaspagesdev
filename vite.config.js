@@ -7,8 +7,8 @@ export default defineConfig({
       input: {
         main: resolve(__dirname, 'index.html'),
         start: resolve(__dirname, 'start.html'),
-        online: resolve(__dirname, 'websitedeveloper.html'),
-        offline: resolve(__dirname, 'themes.html'),
+        websitedeveloper: resolve(__dirname, 'websitedeveloper.html'),
+        themes: resolve(__dirname, 'themes.html'),
         contact: resolve(__dirname, 'contact.html'),
         welcome: resolve(__dirname, 'welcome.html'),
       },
