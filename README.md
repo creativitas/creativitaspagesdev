@@ -10,7 +10,7 @@ Creativitas Collection :
 + [creativitas.vercel.app](https://creativitas.vercel.app) - Eleventy 11ty
 + [creativitas.web.app](https://creativitas.web.app) - Svelte Kit
 + [creativitas.pages.dev](https://creativitas.pages.dev) - Vite feat Lit Element
-+ [creativitas.netlify.app](https:/creativitas.netlify.app) - On Progress
++ [creativitas.netlify.app](https:/creativitas.netlify.app) - 11ty + pagefind
 
 --------------
 
